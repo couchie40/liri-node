@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/couchie40/liri-node/issues"
   },
-  "homepage": "https://github.com/couchie40/liri-node#readme"
+  "homepage": "https://github.com/couchie40/liri-node#readme",
   "dependencies": {
     "node-spotify-api": "^1.0.5",
     "request": "^2.81.0",
